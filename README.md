@@ -1,3 +1,5 @@
 ## FlyingSky's CDN
 
-### This host by Github
+GitHub.CDN.FSky7.com
+
+### Hosts by Github
